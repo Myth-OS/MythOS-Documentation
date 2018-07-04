@@ -25,13 +25,13 @@ Goals in realizing this phase are:
 
 	1 - Complete a first draft of the [Mythos Manifesto](Manifesto.md)
 		1.a - declare the principles, philosophy, and vision of the Mythos project. 
-		1.b - define and clarify fundamental problem / solution sets from a [“first principles”](https://mayooshin.com/first-principles-thinking) perspective. 
+		1.b - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
 		1.c - design a high-level visual ‘map’ of Mythos scope and project vision (“Salt Lake City” planning style).
 
 	2 - Outline a “Mythos Lab” list of ideas and protocols for experiments to conduct based on problem / solutions sets.
 
 	3 - Conduct small, simple, agile experiments in real world settings, and feed the results back into the clarification and experimentation process.
-		3.a - prepare [Mythic Systems](http://mythicsystems.com) as a portal to host the manifesto, and conduct various value experiments.  
+		3.a - prepare MythicSystems.com as a portal to host the manifesto, and conduct various value experiments.  
 
 _______________________________________________________________________________________
 
