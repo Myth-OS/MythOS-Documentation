@@ -4,7 +4,7 @@
 This meta document outlines the fundamental documents being created for planning and implementing the Mythos project.
 
 
-1 - [*Mythos Vision*](Vision.md) (convert into book)
+1 - [*Mythos Vision*](Vision.md)
 
 2 - [*Mythos Roadmap*](Roadmap.md)
 
