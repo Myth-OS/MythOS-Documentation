@@ -10,7 +10,7 @@ The development of Mythos follows a high level methodology and pathway:
 
 3 - **INNOVATION & OPTIMIZATION**: receive audience feedback (return to Phase 1), test, and continue to develop and innovate the project in potential new directions.
 
-_______________________________________________________________________________________
+---
 
 ## Phase 1: IDEATION and EXPERIMENTATION
 ### July 2018 … on going ...
@@ -35,7 +35,7 @@ Goals in realizing this phase are:
 
    - prepare MythicSystems.com as a portal to host the Mythos vision, and conduct real-world value experiments.  
 
-_______________________________________________________________________________________
+---
 
 ## Phase 2: DEVELOPMENT & IMPLEMENTATION
 ### TBD, 2018 
