@@ -1,7 +1,10 @@
 # MYTHOS - Vision
-## MythOS: Mythos Operating System
-_______________________________________________________________________________________
 
-**Introduction**
+
+## Introduction
 
 This document outlines the Mythos vision.
+
+---
+
+## MythOS: a Mythos Operating System
