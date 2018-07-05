@@ -23,15 +23,21 @@ The primary aim of this initial phase is to establish solid conceptual foundatio
 
 Goals in realizing this phase are:
 
-	1 - Complete a summary of the [Mythos Vision](Vision.md)
-		1.a - declare the vision, mission, principles, and philosophy of the Mythos project. 
-		1.b - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
-		1.c - design a high-level visual ‘map’ of Mythos vision and project scope (“Salt Lake City” planning style).
+1 - Complete a comprehensive overview of the [Mythos Vision](Vision.md)
 
-	2 - Outline a “Mythos Lab” list of ideas and protocols for experiments to conduct based on problem / solutions sets.
+   1.a - summarize a declaration of the vision, mission, principles, and philosophy of the Mythos project. 
 
-	3 - Conduct small, simple, agile experiments in real world settings, and input the results back into the experimentation process until value clarification is achieved.
-		3.a - prepare MythicSystems.com as a portal to host the Mythos vision, and conduct real-world value experiments.  
+   1.b - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
+
+   1.c - design a high-level visual ‘map’ of Mythos vision and project scope (“Salt Lake City” planning style).
+
+
+2 - Outline a “Mythos Lab” list of ideas and protocols for experiments to conduct based on problem / solutions sets.
+
+
+3 - Conduct small, simple, agile experiments in real world settings, and input the results back into the experimentation process until value clarification is achieved.
+
+   3.a - prepare MythicSystems.com as a portal to host the Mythos vision, and conduct real-world value experiments.  
 
 _______________________________________________________________________________________
 
