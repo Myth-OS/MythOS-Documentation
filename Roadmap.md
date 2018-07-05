@@ -1,8 +1,4 @@
 # MYTHOS - Roadmap
-## MythOS: Mythos Operating System
-_______________________________________________________________________________________
-
-**Introduction**
 
 This document outlines the Mythos project execution plan (it will be updated as progress and pivots are made).
 
@@ -25,11 +21,11 @@ Goals in realizing this phase are:
 
 1 - Complete a comprehensive overview of the [Mythos Vision](Vision.md)
 
-   1.a - summarize a declaration of the vision, mission, principles, and philosophy of the Mythos project. 
+   - summarize a declaration of the vision, mission, principles, and philosophy of the Mythos project. 
 
-   1.b - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
+   - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
 
-   1.c - design a high-level visual ‘map’ of Mythos vision and project scope (“Salt Lake City” planning style).
+   - design a high-level visual ‘map’ of Mythos vision and project scope (“Salt Lake City” planning style).
 
 
 2 - Outline a “Mythos Lab” list of ideas and protocols for experiments to conduct based on problem / solutions sets.
@@ -37,7 +33,7 @@ Goals in realizing this phase are:
 
 3 - Conduct small, simple, agile experiments in real world settings, and input the results back into the experimentation process until value clarification is achieved.
 
-   3.a - prepare MythicSystems.com as a portal to host the Mythos vision, and conduct real-world value experiments.  
+   - prepare MythicSystems.com as a portal to host the Mythos vision, and conduct real-world value experiments.  
 
 _______________________________________________________________________________________
 
@@ -46,4 +42,4 @@ ________________________________________________________________________________
 
 The primary aim of this phase is to develop ideas and successful experiments into functional and robust applications that scale, delivering systemic solutions into the real world.
 
-Goals in realizing this phase will be defined after a first round is complete in Phase 1.
+Goals in realizing this phase will be defined after a first round of Phase 1 is complete.
