@@ -13,7 +13,7 @@ The development of Mythos follows a high level methodology and pathway:
 ---
 
 ## Phase 1: IDEATION and EXPERIMENTATION
-### July 2018 … on going ...
+### July 2018, on going ...
 
 The primary aim of this initial phase is to establish solid conceptual foundations to ensure delivery of a valuable product / service / experience into the social sphere.  Simple and agile experiments can be conducted to test concepts with real-world audiences, and confirm value creation.   
 
