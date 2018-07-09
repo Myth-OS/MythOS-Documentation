@@ -19,9 +19,9 @@ The primary aim of this initial phase is to establish solid conceptual foundatio
 
 Goals in realizing this phase are:
 
-1 - Complete a comprehensive overview of the [Mythos Vision](Vision.md)
+1 - Complete a comprehensive overview of the [Mythos Declarations](Declarations.md)
 
-   - summarize a declaration of the vision, mission, principles, and philosophy of the Mythos project. 
+   - summarize vision, mission, philosophy, and code of ethics of the Mythos project. 
 
    - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
 
@@ -33,7 +33,7 @@ Goals in realizing this phase are:
 
 3 - Conduct small, simple, agile experiments in real world settings, and input the results back into the experimentation process until value clarification is achieved.
 
-   - prepare MythicSystems.com as a portal to host the [Mythos Vision](Vision.md), and conduct real-world value experiments.  
+   - prepare MythicSystems.com as a portal to host the [Mythos Declarations](Declarations.md), and conduct real-world value experiments.  
 
 ---
 
