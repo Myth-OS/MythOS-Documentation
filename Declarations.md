@@ -1,4 +1,4 @@
-# MYTHOS - Vision
+# MYTHOS - Declarations
 
 This document declares the Mythos vision, mission, philosophy, and code of ethics. 
 
