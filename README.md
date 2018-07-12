@@ -1,4 +1,8 @@
-# MythOS: Mythos Operating System
+# MythOS
+
+A mythic operating system: http://mythos.io
+
+
 ## Mythos Documentation
 
 This meta document outlines the fundamental documents being created for planning and implementing the Mythos project.
