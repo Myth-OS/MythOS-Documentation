@@ -10,7 +10,7 @@ Be a widely recognized phenomena of extraordinary collective inspiration.
 
 ## Mission
 
-To inspire and actualize positive change in the world thru enchantment, adventure, and celebration.
+Catalyze positive change in people’s lives and our world with an extraordinary experience of enchantment, adventure, and celebration.  
 
 
 ## Philosophy
