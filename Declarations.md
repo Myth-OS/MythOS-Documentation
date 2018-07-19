@@ -15,7 +15,7 @@ Catalyze positive change in people’s lives and our world with an extraordinary
 
 ## Philosophy (draft)
 
-1 - CHOOSE CONSCIOUS EVOLUTION: the world is in a state of potent transformation.  This is a natural part of an evolving species in our circumstance of the human condition.  We can participate with how we navigate this transformation.  We can consciously choose how we evolve (or devolve).  We must take responsibility for where we are going.  Participatory epistemology.  
+1 - CHOOSE CONSCIOUS EVOLUTION: our world is in a state of potent transformation.  This change is a natural part of an evolving species becoming a super-orgamism.  We can participate in how we navigate and guide this transformation.  We can consciously choose how we evolve (or devolve).  We must take responsibility for where we are going.  * Participatory epistemology.  
 
 2 - CRAFT COHERENT PERSPECTIVES: there is great power in vision, perspective, in story, narrative, and myth.  We are in a crisis of meaning (ecological and sociological crisis are rooted in this crisis of meaning).  We lack a clear and collectively coherent vision of who we are and where we are going as a collective.  Apply conscious evolution by first crafting a coherent collective vision.   a crisis of meaning due to an imbalance of ‘collective intelligence’ relative to acceleration and potency of evolutionary change..  We need coherent stories of both our past and our future.  (AQ - aquarian artifact)
 
