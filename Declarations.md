@@ -19,7 +19,7 @@ Catalyze positive change in people’s lives and our world with an extraordinary
 
 *“In the midst of chaos, there is also opportunity” ~ Sun-Tzu*
 
-As our world moves thru potent changes, we can recognize that we have a choice in how we participate in navigating and guiding the transformation.  We can consciously choose how we evolve (or devolve).  By taking responsibility for where we are and where we choose to go, we are much less likely to arrive somewhere we do not want to be, and much more likely to arrive to exactly where we do want to be. (see Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epistemology).  
+As our world moves thru potent changes, we can recognize that we have a choice in how we participate in navigating and guiding transformation.  We can consciously choose how we evolve (or devolve).  By taking responsibility for where we are and look to where we want to go, we are less likely to arrive somewhere we don’t want to be, and much more likely to arrive to exactly where we do want to be. (see Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epistemology).   
 
 2 - **CRAFT COHERENT PERSPECTIVES**: 
 
