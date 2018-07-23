@@ -26,7 +26,11 @@ See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epis
 
 “The universe is made of stories, not of atoms.” - Muriel Rukeyser
 
-There is great power in vision, perspective, story, narrative, and myth.  We are in a crisis of meaning (ecological and sociological crisis are rooted in this crisis of meaning).  We lack a clear and collectively coherent vision of who we are and where we are going as a collective.  Apply conscious evolution by first crafting a coherent collective vision.   a crisis of meaning due to an imbalance of ‘collective intelligence’ relative to acceleration and potency of evolutionary change.  We need healthy and coherent perspectives of both our past and our future. Stories are wisdom, empathic glue, etc (AQ - aquarian artifact)
+There is great power in vision, perspective, story, narrative, and myth.  Mythic narrative creates a framework of meaningful perspective that can provide an understanding of origins and a vision forward.  While myth has previously supported the evolution of human culture, currently, 
+humanity is in a crisis of meaning.  All ecological and sociological crises are rooted in this crisis of meaning.  The opportunity now is to collectively co-create a new mythos: a clear and coherent vision of who we are and who we are becoming.  But a new ‘mythos’ will not look like any other type of mythology we have seen before.  Everything in our world and about humanity is about to radically change, and so even our understanding of what a ‘mythos’ is may be very different.  
+* a crisis of meaning due to an imbalance of ‘collective intelligence’ relative to acceleration and potency of evolutionary change.  We need healthy and coherent perspectives of both our past and our future. Stories are wisdom, empathic glue, etc (AQ - aquarian artifact)
+
+* Life and vitality trumps meaning.  Everyone has at least one thing in common: we all want a good experience of being alive.  A myth of living.  A living myth.  
 
 3 - **COLLECTIVE INTELLIGENCE**: 
 
