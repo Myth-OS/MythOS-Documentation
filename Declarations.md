@@ -36,6 +36,8 @@ We must walk our talk, and in fact, maybe better not to talk before we are walki
 
 3 - **UNITY IN DIVERSITY / INTEGRATE DIVERSE PERSPECTIVES**:
 
+Integrate diverse perspectives and value systems. 
+
 Healthy natural ecologies (forests, jungles, oceans) thrive by a diversity of species living in  balance.  The same is true for social ecologies where the values and perspectives of many different kinds of people can be regarded with balance in a totality.  
 
 The sum is greater than the parts.  
@@ -45,18 +47,18 @@ The sum is greater than the parts.
 
 Myths are public dreams, dreams are private myths. - Joseph Campbell
 
-spiral dynamics etc
+See Spiral Dynamics (SDi): http://www.spiraldynamics.net
  
 
 4 - **CRAFT COHERENT PERSPECTIVES**: 
 
-*“The universe is made of stories, not of atoms.” - Muriel Rukeyser*
+*“The universe is made of stories, not of atoms.” ~ Muriel Rukeyser*
 
 There is great power in vision, perspective, story, myth, and narrative.  Narrative provides a framework of meaningful perspective that can provide an understanding of origins and a vision forward.  While myth has previously supported the evolution of human culture, currently, 
 humanity is in a crisis of meaning.  All ecological and sociological crises are rooted in this crisis of meaning.  The opportunity now is to collectively co-create a new mythos: a clear and coherent vision of who we are and who we are becoming.  But a new ‘mythos’ will not look like any other type of mythology we have seen before.  Everything in our world and about humanity is about to radically change, and so even our understanding of what a ‘mythos’ is may be very different.  
-* a crisis of meaning due to an imbalance of ‘collective intelligence’ relative to acceleration and potency of evolutionary change.  We need healthy and coherent perspectives of both our past and our future. Stories are wisdom, empathic glue, etc (AQ - aquarian artifact)
+- a crisis of meaning due to an imbalance of ‘collective intelligence’ relative to acceleration and potency of evolutionary change.  We need healthy and coherent perspectives of both our past and our future. Stories are wisdom, empathic glue, etc (AQ - aquarian artifact)
 
-* Life and vitality trumps meaning.  Everyone has at least one thing in common: we all want a good experience of being alive.  A myth of living.  A living myth.  
+- Life and vitality trumps meaning.  Everyone has at least one thing in common: we all want a good experience of being alive.  A myth of living.  A living myth.   
 
 
 5 - **COLLECTIVE INTELLIGENCE**: 
