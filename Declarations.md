@@ -15,7 +15,7 @@ Catalyze positive change in people’s lives and our world with an extraordinary
 
 ## Philosophy (draft)
 
-1 - **CHOOSE CONSCIOUS EVOLUTION**: 
+1 - **CONSCIOUS EVOLUTION**: 
 
 *“In the midst of chaos, there is also opportunity” ~ Sun-Tzu*
 
