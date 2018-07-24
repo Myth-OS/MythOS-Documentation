@@ -25,13 +25,13 @@ See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epis
 
 2 - **SOVEREIGN INTERDEPENDENCE**:
 
-*Autonomous individuals + unified collective = sovereign interdependence = sum is greater than parts*
+*sovereign interdependence = autonomous individuals + collaborative collective*
 
-Global transformation begins at the individual level.  Like a cell within a body, many healthy cells equate to a healthy whole.  
+Global transformation begins at the level of individual transformation.  Like a cell within a body, many healthy cells equate to a healthy whole.  
 
-Sovereign (legal). We are our own rulers.  We have the right, privilege, and responsibility to ‘parent’ and govern ourselves.  
+Sovereign (legal). We are our own rulers.  We have the right, privilege, and responsibility to govern and ‘parent’ ourselves.  
 
-We must walk our talk, and in fact, maybe better not to talk before we are walking.  * this may be a single principle.
+We must walk our talk, and in fact, maybe better not to talk before we are walking.
 
 
 3 - **UNITY IN DIVERSITY / INTEGRATE DIVERSE PERSPECTIVES**:
