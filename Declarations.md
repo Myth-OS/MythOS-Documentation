@@ -22,7 +22,41 @@ Catalyze positive change in people’s lives and our world with an extraordinary
 As our world moves thru potent changes, we can recognize that we have a choice in how we participate in navigating and guiding transformation.  We have free will, and can consciously choose how we evolve (or devolve).  By taking responsibility for where we are and look to where we want to go, we are less likely to arrive somewhere we don’t want to be, and much more likely to arrive to exactly where we do want to be. 
 See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epistemology.   
 
-2 - **CRAFT COHERENT PERSPECTIVES**: 
+2 - SOVEREIGN INTERDEPENDENCE 
+
+Autonomous individuals + unified collective = sovereign interdendence = sum is greater than parts
+
+Global transformation begins at the individual level.  Like a cell within a body, many healthy cells equate to a healthy whole.  
+
+Sovereign (legal). We are our own rulers.  We have the right, privilege, and responsibility to ‘parent’ and govern ourselves.  
+
+We must walk our talk, and in fact, maybe better not to talk before we are walking.  * this may be a single principle.
+
+2 - **SOVEREIGN INTERDEPENDENCE**:
+
+*Autonomous individuals + unified collective = sovereign interdendence = sum is greater than parts*
+
+Global transformation begins at the individual level.  Like a cell within a body, many healthy cells equate to a healthy whole.  
+
+Sovereign (legal). We are our own rulers.  We have the right, privilege, and responsibility to ‘parent’ and govern ourselves.  
+
+We must walk our talk, and in fact, maybe better not to talk before we are walking.  * this may be a single principle.
+
+3 - **UNITY IN DIVERSITY / INTEGRATE DIVERSE PERSPECTIVES**:
+
+Healthy natural ecologies (forests, jungles, oceans) thrive by a diversity of species living in  balance.  The same is true for social ecologies where the values and perspectives of many different kinds of people can be regarded with balance in a totality.  
+
+The sum is greater than the parts.  
+
+“We need myths that will identify the individual not with his local group but with the planet.” 
+― Joseph Campbell, The Power of Myth
+
+Myths are public dreams, dreams are private myths. - Joseph Campbell
+
+spiral dynamics etc
+ 
+
+4 - **CRAFT COHERENT PERSPECTIVES**: 
 
 *“The universe is made of stories, not of atoms.” - Muriel Rukeyser*
 
@@ -32,27 +66,23 @@ humanity is in a crisis of meaning.  All ecological and sociological crises are 
 
 - Life and vitality trumps meaning.  Everyone has at least one thing in common: we all want a good experience of being alive.  A myth of living.  A living myth.  
 
-3 - **COLLECTIVE INTELLIGENCE**: 
+5 - **COLLECTIVE INTELLIGENCE**: 
 
 individual transformation combined with organizing many individuals to collaborate at scale = Collective Intelligence.  We need a high order of collective intelligence to solve the very large and complex problems we face (which are normal given the stage of our evolutionary progress).  Empathy / empathic civilization, etc. Neo-democracy.  Economics as a measure of CI.  HI + AI = CI
 
-4 - **EVOLUTIONARY EXPERIENCE DESIGN**:
+6 - **EVOLUTIONARY EXPERIENCE DESIGN**:
 
 all people on the planet have at least one thing in common: we all want a good experience of being alive (tho there is a diversity to what ‘good experience’ means).  User experience design with a strong leaning toward encouraging conscious evolution.  Principles of gamification as optimal elements of user experience / hard wired in our minds.  Thus, an evolutionary game.  Incentivization as a key evolutionary trend.  PLAY
 
-5 - **UNITY IN DIVERSITY**:
-
-spiral dynamics etc
-
-6 - **TECHNOLOGY CAN BE A MAGIC WAND**:
+7 - **TECHNOLOGY CAN BE A MAGIC WAND**:
 
 human relationship with technology is inherent in our evolutionary path (example).  all technology is a ‘double-edged sword’.  It can be yielded for extraordinary benefic creation or malefic destruction.  It is up to us (conscious evolution) to choose how to yield the sword.  The most magic is on the fringes of innovation and at the confluence of major innovation trends (DLT, AI, VR, BT, etc).  Enchantment as necessary toward action (enchantment over emergency for necessity to change ((emergency is usually the case, but enchantment can also begin the ‘call’?)
 
-7 - **MYTHOS LEADS TO ETHOS**: 
+8 - **MYTHOS LEADS TO ETHOS**: 
 
 invitation leads to action. ??? form and function.  Emptiness and form … lead with the tip of the spear
 
-8 - **MYTHOS FORMULA CYCLE**:
+9 - **MYTHOS FORMULA CYCLE**:
 
 [ graphic ]
 
