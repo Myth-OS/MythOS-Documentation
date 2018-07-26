@@ -25,15 +25,10 @@ Goals in realizing this phase are:
 
    - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
 
-   - design a high-level visual ‘map’ of Mythos vision and project scope (“Salt Lake City” planning style).
 
+2 - Revise and develop Mythos website (http://mythos.io) to host comprehensive overview of Mythos project.
 
-2 - Outline a “Mythos Lab” list of ideas and protocols for experiments to conduct based on problem / solutions sets.
-
-
-3 - Conduct small, simple, agile experiments in real world settings, and input the results back into the experimentation process until value clarification is achieved.
-
-   - prepare Mythic Systems (https://github.com/MythicSystems) as a portal to host the Mythos initiative, and conduct real-world value experiments.  
+3 - Derive results from “Mythos Systems Lab” experiments (see Mythic Systems Roadmap: https://github.com/MythicSystems/Documents/blob/master/Roadmap.md), and integrate successful results into Mythos technology design and architecture [Specification](Specification.md).
 
 ---
 
