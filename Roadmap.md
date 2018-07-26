@@ -33,7 +33,7 @@ Goals in realizing this phase are:
 
 3 - Conduct small, simple, agile experiments in real world settings, and input the results back into the experimentation process until value clarification is achieved.
 
-   - prepare [Mythic Systems] (https://github.com/MythicSystems) as a portal to host the Mythos initiative, and conduct real-world value experiments.  
+   - prepare Mythic Systems (https://github.com/MythicSystems) as a portal to host the Mythos initiative, and conduct real-world value experiments.  
 
 ---
 
