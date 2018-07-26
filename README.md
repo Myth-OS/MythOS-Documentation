@@ -16,4 +16,4 @@ This meta document outlines the fundamental documents being created for planning
 
 4 - *Mythos Business Plan*
 
-5 - [*Mythos Functional and Technical Specification*] (Specification.md)
+5 - [*Mythos Functional and Technical Specification*](Specification.md)
