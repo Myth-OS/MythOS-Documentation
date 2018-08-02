@@ -63,7 +63,9 @@ humanity is in a crisis of meaning.  All ecological and sociological crises are 
 
 5 - **COLLECTIVE INTELLIGENCE**: 
 
-individual transformation combined with organizing many individuals to collaborate at scale = Collective Intelligence.  We need a high order of collective intelligence to solve the very large and complex problems we face (which are normal given the stage of our evolutionary progress).  Empathy / empathic civilization, etc. Neo-democracy.  Economics as a measure of CI.  HI + AI = CI
+“Collective Intelligence (CI) is the capacity of human collectives to engage in intellectual cooperation in order to create, innovate, and invent.” ~ Pierre Levy
+
+Individual transformation combined with organizing many individuals to collaborate at scale = Collective Intelligence.  We need a high order of collective intelligence to solve the very large and complex problems we face (which are normal given the stage of our evolutionary progress).  Empathy / empathic civilization, etc. Neo-democracy.  Economics as a measure of CI.  HI + AI = CI (“Radical Collective Intelligence”). This change is a natural part of an evolving species becoming a super-orgamism.  
 
 
 6 - **EVOLUTIONARY EXPERIENCE DESIGN**:
