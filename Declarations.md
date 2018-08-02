@@ -90,6 +90,8 @@ Erik Davis quote?
 
 8 - **MYTHOS LEADS TO ETHOS**: 
 
+Quote on mythos and/or ethos?
+
 invitation leads to action. ??? form and function.  Emptiness and form … lead with the tip of the spear
 
 
