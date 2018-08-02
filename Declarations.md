@@ -83,7 +83,9 @@ All people on the planet have at least one thing in common: we all want a good e
 
 7 - **TECHNOLOGY CAN BE A MAGIC WAND**:
 
-human relationship with technology is inherent in our evolutionary path (example).  all technology is a ‘double-edged sword’.  It can be yielded for extraordinary benefic creation or malefic destruction.  It is up to us (conscious evolution) to choose how to yield the sword.  The most magic is on the fringes of innovation and at the confluence of major innovation trends (DLT, AI, VR, BT, etc).  Enchantment as necessary toward action (enchantment over emergency for necessity to change ((emergency is usually the case, but enchantment can also begin the ‘call’?)
+Human relationship with technology is inherent in our evolutionary path (example).  all technology is a ‘double-edged sword’.  It can be yielded for extraordinary benefic creation or malefic destruction.  It is up to us (conscious evolution) to choose how to yield the sword.  The most magic is on the fringes of innovation and at the confluence of major innovation trends (DLT, AI, VR, BT, etc).  Enchantment as necessary toward action (enchantment over emergency for necessity to change ((emergency is usually the case, but enchantment can also begin the ‘call’?)
+
+Erik Davis quote?
 
 
 8 - **MYTHOS LEADS TO ETHOS**: 
