@@ -50,7 +50,7 @@ Myths are public dreams, dreams are private myths. - Joseph Campbell
 See Spiral Dynamics (SDi): http://www.spiraldynamics.net
  
 
-4 - **CRAFT COHERENT PERSPECTIVES (narratives?): **: 
+4 - **CRAFT COHERENT PERSPECTIVES (narratives?)**: 
 
 *“The universe is made of stories, not of atoms.” ~ Muriel Rukeyser*
 
