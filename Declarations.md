@@ -15,13 +15,11 @@ Catalyze positive change in people’s lives and our world with an extraordinary
 
 ## Philosophy (draft)
 
-ADD: NATURAL LAW (here or elswhere)?
-
 1 - **CONSCIOUS EVOLUTION**: 
 
 *“In the midst of chaos, there is also opportunity” ~ Sun-Tzu*
 
-As our world moves thru potent changes, we can recognize that we have a choice in how we participate in navigating and guiding transformation.  We have free will, and can consciously choose how we evolve (or devolve).  By taking responsibility for where we are and look to where we want to go, we are less likely to arrive somewhere we don’t want to be, and much more likely to arrive to exactly where we do want to be.
+As our world moves thru potent changes, we can recognize that we have a choice in how we participate in navigating and guiding transformation.  We have free will, and can consciously choose how we evolve (or devolve).  By taking responsibility for where we are and looking to where we want to go, we are less likely to arrive somewhere we don’t want to be, and much more likely to arrive to exactly where we do want to be.
 See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epistemology. 
 
 
@@ -29,9 +27,9 @@ See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epis
 
 *sovereign interdependence = autonomous individuals + collaborative collective*
 
-Global transformation begins at the level of individual transformation.  Like a cell within a body, many healthy cells equate to a healthy whole.  
-
 Sovereign (legal). We are our own rulers.  We have the right, privilege, and responsibility to govern and ‘parent’ ourselves.  
+
+Global collective transformation begins at the level of individual transformation.  Like a cell within a body, many healthy cells equate to a healthy whole.  Individuals who are becoming stable and centered in their own sufficiency and purpose establish an optimal basis for synergistic collaboration with each other, thus realzing a thriving, intelligent, interdependent collective together.    
 
 We must walk our talk, and in fact, maybe better not to talk before we are walking.
 
@@ -105,6 +103,11 @@ invitation leads to action. ??? form and function.  Emptiness and form … lead 
 9 - **MYTHOS FORMULA CYCLE**:
 
 [ graphic ]
+
+
+10 - NATURAL LAW:
+
+“quote” ~ anon
 
 
 
