@@ -91,6 +91,7 @@ Human relationship with technology is inherent in our evolutionary path (example
 
 Erik Davis quote?
 
+
 8 - Balance of Decentralization and Centralization
 
 "When decentralized blockchain protocols start displacing the centralized web services that dominate the current Internet, we'll start to see real internet-based sovereignty. The future Internet will be decentralized." ~ Olaf Carlson-Wee
