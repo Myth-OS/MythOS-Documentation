@@ -92,6 +92,11 @@ Erik Davis quote?
 
 8 - **MYTHOS LEADS TO ETHOS**: 
 
+Mythos:
+a myth or mythology.
+- (in literature) a traditional or recurrent narrative theme or plot structure.
+- a set of beliefs or assumptions about something.
+
 Quote on mythos and/or ethos?
 
 invitation leads to action. ??? form and function.  Emptiness and form … lead with the tip of the spear
