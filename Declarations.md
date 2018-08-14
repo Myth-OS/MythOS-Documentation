@@ -25,7 +25,7 @@ See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epis
 
 2 - **SOVEREIGN INTERDEPENDENCE**:
 
-*sovereign interdependence = autonomous individuals + collaborative collective*
+*sovereign interdependence = autonomous, self-sufficent, and self-governing individuals + collaborative, self-governing collective* (sovereign at both the individual and collective levels)
 
 "The people are the government, administering it by their agents; they are the government, the sovereign power." ~ Andrew Jackson
 
