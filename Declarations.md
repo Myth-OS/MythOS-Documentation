@@ -27,6 +27,10 @@ See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epis
 
 *sovereign interdependence = autonomous individuals + collaborative collective*
 
+"The people are the government, administering it by their agents; they are the government, the sovereign power." ~ Andrew Jackson
+
+"I believe that sovereignty is the twin sister of democracy. If there's no sovereignty, there's no democracy." ~ Marine Le Pen
+
 Sovereign (legal). We are our own rulers.  We have the right, privilege, and responsibility to govern and ‘parent’ ourselves.  
 
 Global collective transformation begins at the level of individual transformation.  Like a cell within a body, many healthy cells equate to a healthy whole.  Individuals who are becoming stable and centered in their own sufficiency and purpose establish an optimal basis for synergistic collaboration with each other, thus realzing a thriving, intelligent, interdependent collective together.    
@@ -87,8 +91,12 @@ Human relationship with technology is inherent in our evolutionary path (example
 
 Erik Davis quote?
 
+8 - Balance of Decentralization and Centralization
 
-8 - **MYTHOS LEADS TO ETHOS**: 
+"When decentralized blockchain protocols start displacing the centralized web services that dominate the current Internet, we'll start to see real internet-based sovereignty. The future Internet will be decentralized." ~ Olaf Carlson-Wee
+
+
+9 - **MYTHOS LEADS TO ETHOS**: 
 
 Mythos:
 a myth or mythology.
