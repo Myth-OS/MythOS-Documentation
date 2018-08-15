@@ -40,7 +40,7 @@ We must walk our talk, and in fact, maybe better not to talk before we are walki
 
 3 - **EMPATHIC CIVILIZATION**
 
-“The most important question facing humanity is this: Can we reach global empathy in time to avoid the collapse of civilization and save the Earth?” ~ Jeremy Rifkin, The Empathic Civilization: The Race To Global Consciousness In A World In Crisis
+*“The most important question facing humanity is this: Can we reach global empathy in time to avoid the collapse of civilization and save the Earth?” ~ Jeremy Rifkin, The Empathic Civilization: The Race To Global Consciousness In A World In Crisis*
 
 Unity in Diversity.  
 
