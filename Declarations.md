@@ -38,11 +38,15 @@ Global collective transformation begins at the level of individual transformatio
 We must walk our talk, and in fact, maybe better not to talk before we are walking.
 
 
-3 - **UNITY IN DIVERSITY / INTEGRATE DIVERSE PERSPECTIVES**:
+3 - **EMPATHIC CIVILIZATION**
+
+“The most important question facing humanity is this: Can we reach global empathy in time to avoid the collapse of civilization and save the Earth?” ~ Jeremy Rifkin, The Empathic Civilization: The Race To Global Consciousness In A World In Crisis
+
+Unity in Diversity.  
 
 Integrate diverse perspectives and value systems. 
 
-Healthy natural ecologies (forests, jungles, oceans) thrive by a diversity of species living in  balance.  The same is true for social ecologies where the values and perspectives of many different kinds of people can be regarded with balance in a totality.  
+Healthy natural ecologies (forests, jungles, oceans) thrive by a diversity of species living in balance.  The same is true for social ecologies where the values and perspectives of many different kinds of people can be regarded with balance in a totality.  
 
 The sum is greater than the parts.  
 
