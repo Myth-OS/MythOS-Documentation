@@ -58,12 +58,15 @@ Myths are public dreams, dreams are private myths. - Joseph Campbell
 See Spiral Dynamics (SDi): http://www.spiraldynamics.net
  
 
-4 - **CRAFT COHERENT PERSPECTIVES (narratives?)**: 
+4 - **CRAFT MEANINGFUL PERSPECTIVES (narratives?)**: 
 
 *“The universe is made of stories, not of atoms.” ~ Muriel Rukeyser*
 
-There is great power in vision, perspective, story, myth, and narrative.  Narrative provides a framework of meaningful perspective that can provide an understanding of origins and a vision forward.  While myth has previously supported the evolution of human culture, currently, humanity is in a crisis of meaning.  All ecological and sociological crises are rooted in this crisis of meaning.  The opportunity now is to collectively co-create a new mythos: a clear and coherent vision of who we are and who we are becoming.  But a new ‘mythos’ will not look like any other type of mythology we have seen before.  Everything in our world and about humanity is about to radically change, and so even our understanding of what a ‘mythos’ is may be very different.  
+There is great power in story, myth, and narrative.  Story provides meaningful perspective, helping to understand and settle the past, as well as provide possibility and vision for the future.
 
+Traditionally, myth has has helped humanity understand our world, and supported the evolution of human culture.
+
+Currently, humanity is in a crisis of meaning.  All ecological and sociological crises are rooted in this crisis of meaning.  The opportunity now is to collectively co-create a new mythos: a clear and coherent vision of who we are and who we are becoming.  But a new ‘mythos’ will not look like any other type of mythology we have seen before.  Everything in our world and about humanity is about to radically change, and so even our understanding of what a ‘mythos’ is may be very different.  
 - A crisis of meaning due to an imbalance of ‘collective intelligence’ relative to acceleration and potency of evolutionary change.  We need healthy and coherent perspectives of both our past and our future. Stories are wisdom, empathic glue, etc (AQ - aquarian artifact)
 
 - Life and vitality trumps meaning.  Everyone has at least one thing in common: we all want a good experience of being alive.  A myth of living.  A living myth.   
