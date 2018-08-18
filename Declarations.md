@@ -35,8 +35,6 @@ Sovereign (legal). We are our own rulers.  We have the right, privilege, and res
 
 Global collective transformation begins at the level of individual transformation.  Like a cell within a body, many healthy cells equate to a healthy whole.  Individuals who are becoming stable and centered in their own sufficiency and purpose establish an optimal basis for synergistic collaboration with each other, thus realzing a thriving, intelligent, interdependent collective together.    
 
-We must walk our talk, and in fact, maybe better not to talk before we are walking.
-
 
 3 - **EMPATHIC CIVILIZATION**
 
@@ -75,6 +73,8 @@ Currently, humanity is in a crisis of meaning.  All ecological and sociological 
 5 - **COLLECTIVE INTELLIGENCE**: 
 
 “Collective Intelligence (CI) is the capacity of human collectives to engage in intellectual cooperation in order to create, innovate, and invent.” ~ Pierre Levy
+
+Today we face global problems of such great scale and complexity that are unprecedented in our our history.  We have never faced problems like this before--problems that breach the comprehension of any single indivudual or small group.  To solve these large problems, we must approach them with a level of intelligence that matches the scale of the issues.  By harnessing Collective Intelligence, we may rise to an order of intelligent organization and scale that can provide global scale solutions. 
 
 Individual transformation combined with organizing many individuals to collaborate at scale = Collective Intelligence.  We need a high order of collective intelligence to solve the very large and complex problems we face (which are normal given the stage of our evolutionary progress).  Empathy / empathic civilization, etc. Neo-democracy.  Economics as a measure of CI.  HI + AI = CI (“Radical Collective Intelligence”). This change is a natural part of an evolving species becoming a super-orgamism.  
 
