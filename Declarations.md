@@ -50,6 +50,8 @@ Current systems ingender apathy.  How to create systems that generate empathy?
 
 The sum is greater than the parts.  
 
+"None of us is as smart as all of us. Keeping your ideas to yourself is detrimental. Diversity of people equals diversity of ideas." ~ Denise Jacobs
+
 “We need myths that will identify the individual not with his local group but with the planet.” 
 ― Joseph Campbell, The Power of Myth
 
