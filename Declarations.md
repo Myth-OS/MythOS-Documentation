@@ -124,6 +124,9 @@ invitation leads to action. ??? form and function.  Emptiness and form … lead 
 
 [ graphic ]
 
+ACTUM
+"What’s missing isn’t the ideas… it’s the will to execute them." ~ Seth Godin
+
 
 10 - NATURAL LAW:
 
