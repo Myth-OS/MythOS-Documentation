@@ -85,12 +85,12 @@ Individual transformation combined with organizing many individuals to collabora
 
 6 - **EVOLUTIONARY EXPERIENCE DESIGN**:
 
-Experience design quote ? Jesse James Garret?
+"You’ve got to start with the customer experience and work backwards to the technology." ~ Steve Jobs
 
-“People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. I think that what we’re seeking is an experience of being alive, so that our life experiences on the purely physical plane will have resonances with our own innermost being and reality, so that we actually feel the rapture of being alive.” 
+"People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. I think that what we’re seeking is an experience of being alive, so that our life experiences on the purely physical plane will have resonances with our own innermost being and reality, so that we actually feel the rapture of being alive." 
 ― Joseph Campbell, The Power of Myth
 
-“Follow your bliss and doors will open where there were no doors before.” 
+"Follow your bliss and doors will open where there were no doors before." 
 ― Joseph Campbell, The Power of Myth
 
 All people on the planet have at least one thing in common: we all want a good experience of being alive (tho there is a diversity to what ‘good experience’ means).  User experience design with a strong leaning toward encouraging conscious evolution.  Principles of gamification as optimal elements of user experience / hard wired in our minds.  Thus, an evolutionary game.  Incentivization as a key evolutionary trend.  PLAY
