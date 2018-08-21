@@ -46,6 +46,8 @@ Integrate diverse perspectives and value systems.
 
 Healthy natural ecologies (forests, jungles, oceans) thrive by a diversity of species living in balance.  The same is true for social ecologies where the values and perspectives of many different kinds of people can be regarded with balance in a totality.  
 
+Current systems ingender apathy.  How to create systems that generate empathy?
+
 The sum is greater than the parts.  
 
 “We need myths that will identify the individual not with his local group but with the planet.” 
