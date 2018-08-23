@@ -106,7 +106,7 @@ The most magic is on the fringes of innovation and at the confluence of major in
 
 Enchantment as necessary toward action (enchantment over emergency for necessity to change ((emergency is usually the case, but enchantment can also begin the ‘call’?))).
 
-Erik Davis quote?
+“The funny thing about games and fictions is that they have a weird way of bleeding into reality. Whatever else it is, the world that humans experience is animated with narratives, rituals, and roles that organize psychological experience, social relations, and our imaginative grasp of the material cosmos. The world, then, is in many ways a webwork of fictions, or, better yet, of stories. The contemporary urge to “gamify” our social and technological interactions is, in this sense, simply an extension of the existing games of subculture, of folklore, even of belief. This is the secret truth of the history of religions: not that religions are “nothing more” than fictions, crafted out of sociobiological need or wielded by evil priests to control ignorant populations, but that human reality possesses an inherently fictional or fantastic dimension whose “game engine” can — and will — be organized along variously visionary, banal, and sinister lines. Part of our obsession with counterfactual genres like sci-fi or fantasy is not that they offer escape from reality — most of these genres are glum or dystopian a lot of the time anyway — but because, in reflecting the “as if” character of the world, they are actually realer than they appear.” ~ Erik Davis, TechGnosis: Myth, Magic Mysticism in the Age of Information
 
 
 8 - Balance of Decentralization and Centralization
