@@ -98,9 +98,9 @@ All people on the planet have at least one thing in common: we all want a good e
 
 7 - **TECHNOLOGY CAN BE A MAGIC WAND**:
 
-The human relationship with technology is inherent in our evolutionary path (example).  
+Humanities relationship with technology has ancient roots, and is inextricably bound with our cultural transformation and conscious evolution.
 
-All technology is a ‘double-edged sword’.  It can be yielded for extraordinary benefic creation or malefic destruction.  It is up to us (conscious evolution) to choose how to yield the sword.  
+All technology is a ‘double-edged sword’.  Technology can be yielded for extraordinary benefic creation or malefic destruction.  The choice is up to us (conscious evolution) to choose which way we yield the sword.  
 
 The most magic is on the fringes of innovation and at the confluence of major innovation trends (DLT, AI, VR, BT, etc). 
 
