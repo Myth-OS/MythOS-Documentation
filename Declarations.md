@@ -127,6 +127,10 @@ invitation leads to action. ??? form and function.  Emptiness and form … lead 
 
 “When we illuminate the road back to our ancestors, they have a way of reaching out, of manifesting themselves...sometimes even physically.” ~ Raquel Cepeda
 
+“That is not dead which can eternal lie,
+And with strange aeons even death may die.” 
+~ H.P Lovecraft
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
