@@ -125,6 +125,8 @@ Quote on mythos and/or ethos?
 
 invitation leads to action. ??? form and function.  Emptiness and form … lead with the tip of the spear
 
+“When we illuminate the road back to our ancestors, they have a way of reaching out, of manifesting themselves...sometimes even physically.” ~ Raquel Cepeda
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
