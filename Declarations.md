@@ -131,6 +131,9 @@ invitation leads to action. ??? form and function.  Emptiness and form … lead 
 And with strange aeons even death may die.” 
 ~ H.P Lovecraft
 
+"Myth is neither a lie nor a confession: it is an inflexion." 
+~ Roland Barthes
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
