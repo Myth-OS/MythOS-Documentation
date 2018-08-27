@@ -134,6 +134,26 @@ And with strange aeons even death may die.”
 "Myth is neither a lie nor a confession: it is an inflexion." 
 ~ Roland Barthes
 
+"Myth is the hidden part of every story, the buried part, the region that is still unexplored because there are as yet no words to enable us to get there. Myth is nourished by silence as well as by words."
+~ Italo Calvino
+
+"He said myths and mythology wasn't to give meaning to life but to give us an experience of life, an experience of vitality in being alive." ~ Joseph Campbell
+
+"It is a myth, not a mandate, a fable not a logic, and symbol rather than a reason by which men are moved."
+~ Irwin Edman
+
+"There is nothing truer than myth: history, in its attempt to realize myth, distorts it, stops halfway; when history claims to have succeeded, this is nothing but humbug and mystification. Everything we dream is realizable. Reality does not have to be: it is simply what it is." ~ Eugene Ionesco
+
+"Myth is an attempt to narrate a whole human experience, of which the purpose is too deep, going too deep in the blood and soul, for mental explanation or description." ~ D. H. (David Herbert) Lawrence
+
+"It is a sure sign that a culture has reached a dead end when it is no longer intrigued by its myths." ~ Greil Marcus
+
+"Myths and legends die hard in America. We love them for the extra dimension they provide, the illusion of near-infinite possibility to erase the narrow confines of most men's reality. Weird heroes and mould-breaking champions exist as living proof to those who need it that the tyranny of the rat race is not yet final." ~ Hunter S. Thompson
+
+"Myths which are believed in tend to become true." ~ George Orwell
+
+"Sometimes legends make reality, and become more useful than the facts." ~ Salman Rushdie
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
