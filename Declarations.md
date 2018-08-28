@@ -125,6 +125,8 @@ Quote on mythos and/or ethos?
 
 invitation leads to action. ??? form and function.  Emptiness and form … lead with the tip of the spear
 
+“Myth is not prehistory; it is timeless reality, which repeats itself in history.” ~ Ernst Junger
+
 “When we illuminate the road back to our ancestors, they have a way of reaching out, of manifesting themselves...sometimes even physically.” ~ Raquel Cepeda
 
 “That is not dead which can eternal lie,
