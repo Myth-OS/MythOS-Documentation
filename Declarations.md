@@ -156,6 +156,8 @@ And with strange aeons even death may die.”
 
 "Sometimes legends make reality, and become more useful than the facts." ~ Salman Rushdie
 
+"It is a sure sign that a culture has reached a dead end when it is no longer intrigued by its myths." ~ Greil Marcus
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
