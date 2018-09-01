@@ -158,6 +158,8 @@ And with strange aeons even death may die.”
 
 "It is a sure sign that a culture has reached a dead end when it is no longer intrigued by its myths." ~ Greil Marcus
 
+"I think that we need mythology. We need a bedrock of story and legend in order to live our lives coherently." ~ Alan Moore
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
