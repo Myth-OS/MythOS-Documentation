@@ -90,6 +90,8 @@ Individual transformation combined with organizing many individuals to collabora
 
 "You’ve got to start with the customer experience and work backwards to the technology." ~ Steve Jobs
 
+“If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.” ~ Buckminster Fuller
+
 "People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. I think that what we’re seeking is an experience of being alive, so that our life experiences on the purely physical plane will have resonances with our own innermost being and reality, so that we actually feel the rapture of being alive." 
 ― Joseph Campbell, The Power of Myth
 
