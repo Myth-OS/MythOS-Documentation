@@ -64,6 +64,9 @@ See Spiral Dynamics (SDi): http://www.spiraldynamics.net
 
 *“The universe is made of stories, not of atoms.” ~ Muriel Rukeyser*
 
+"There is no energy crisis, food crisis or environmental crisis. There is only a crisis of ignorance."
+~ R. Buckminster Fuller
+
 There is great power in story, myth, and narrative.  Story provides meaningful perspective, helping to understand and settle the past, as well as provide possibility and vision for the future.
 
 Traditionally, myth has has helped humanity understand our world, and supported the evolution of human culture.
