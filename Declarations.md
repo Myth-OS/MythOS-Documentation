@@ -173,6 +173,8 @@ And with strange aeons even death may die.”
 ACTUM
 "What’s missing isn’t the ideas… it’s the will to execute them." ~ Seth Godin
 
+PRAXIS
+"praxis is the process by which a theory, lesson, or skill is enacted, embodied, or realized."
 
 10 - NATURAL LAW:
 
