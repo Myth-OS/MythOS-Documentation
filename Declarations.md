@@ -165,6 +165,9 @@ And with strange aeons even death may die.”
 
 "I think that we need mythology. We need a bedrock of story and legend in order to live our lives coherently." ~ Alan Moore
 
+"The dark night of the soul comes just before revelation.  When everything is lost, and all seems darkness, then comes the new life and all that is needed." ~ Joseph Campbell
+
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
