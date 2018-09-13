@@ -167,6 +167,7 @@ And with strange aeons even death may die.”
 
 "The dark night of the soul comes just before revelation.  When everything is lost, and all seems darkness, then comes the new life and all that is needed." ~ Joseph Campbell
 
+“The cave you fear to enter holds the treasure you seek.” ~Joseph Campbell
 
 
 9 - **MYTHOS FORMULA CYCLE**:
