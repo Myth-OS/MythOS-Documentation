@@ -169,6 +169,11 @@ And with strange aeons even death may die.”
 
 “The cave you fear to enter holds the treasure you seek.” ~Joseph Campbell
 
+“Such notes as warbled to the string,
+Drew iron tears down Pluto’s cheek,
+And made Hell grant what Love did seek.”
+~ John Milton, “Il Penseroso”
+
 
 9 - **MYTHOS FORMULA CYCLE**:
 
