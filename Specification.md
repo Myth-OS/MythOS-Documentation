@@ -6,7 +6,7 @@ This document describes and specifies the Mythos application design and architec
 
 ## Introduction
 
-Mythos is a platform for discovering, collecting, shaping, organizing, and sharing our personal stories of transformation, and for co-creating a collective evolutionary narrative vision of our future.
+Mythos is a social platform that helps people gather, shape, and share personal stories of transformation in order recognize the wisdom of their own journey, and build a collective vision of our future.
 
 ...
 
