@@ -10,7 +10,9 @@ MythOS is a social platform that helps people gather, shape, and share personal 
 
 With MythOS, users are able to store their stories with words, images, audio, and video in a way that is consolidated, secure, and portable. Users are guided to craft and improve their stories using principles of story telling. A user's stories are gathered in a personal profile, and can be organized and represented in a variety of ways.  
 
-Collective crowd sourcing and Artificial Intelligence (Machine Learning) is applied to find connections between user's individual stories, and make recommendations to users of stories similar to theirs.  This process can engender a sense of connection and empathy between members, across the MythOS community, and within other social networks.  
+Collective crowd sourcing and Artificial Intelligence (Machine Learning) is applied to find connections between user's individual stories, and make recommendations to users of stories similar to theirs.  This process can engender a sense of connection and empathy between members, across the MythOS community, and within other social networks.
+
+NOTE: a fundamental distinction is made between MythOS and Mythos.  MythOS is the generalized platform of universal features supporting a vast distributed social network oriented around the significance of personal story.  Mythos is a more specific implementation of the MythOS platform that extends upon universal features for a narrower target market. 
 
 ## VISION
 ### Product Vision
