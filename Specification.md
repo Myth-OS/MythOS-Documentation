@@ -4,13 +4,20 @@
 This document describes and specifies the Mythos application design and architecture.
 
 
-## Introduction
+## NTRODUCTION
 
 Mythos is a social platform that helps people gather, shape, and share personal stories of transformation in order recognize the wisdom of their own journey, and build a collective vision of our future.
 
-...
+## VISION
+### Product Vision
+### Design Vision
+### Business Vision
 
-## Features
+## PRODUCT
+### Information Architecture
+### Technical Architecture
+
+### Features
 
 1 - ...
 
@@ -18,7 +25,4 @@ Mythos is a social platform that helps people gather, shape, and share personal 
 
 3 - ... 
 
-
-## Architecture
-
-...
+### Product Road Map
