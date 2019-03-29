@@ -14,6 +14,10 @@ Collective crowd sourcing and Artificial Intelligence (Machine Learning) is appl
 
 ## VISION
 ### Product Vision
+Initially, the focus is on providing ways for people to quickly and easily store their stories, improve their stories, and derive wisdom and insights from their personal stories.  
+
+Ultimately, we want people's individual stories to combine and weave into a more coherent collective vision of humanity's story and vision.   
+
 ### Design Vision
 ### Business Vision
 
