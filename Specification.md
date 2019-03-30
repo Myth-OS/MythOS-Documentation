@@ -57,6 +57,8 @@ MythOS will be established on distributed network technology (most likely either
 
 MythOS will use standard HTML5 and Javascript libraries (React, D3) for fluid and expressive User Interfaces.  
 
+Machine Learning (Artificial Intelligence) TBD
+
 ### Features
 
 1 - ...
