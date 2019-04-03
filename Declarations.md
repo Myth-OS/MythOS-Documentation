@@ -15,4 +15,4 @@ Catalyze positive change in people’s lives and our world with an extraordinary
 
 ## Philosophy
 
-* See Mythic Systems philosophy and [*Manifesto*](https://github.com/MythicSystems/Documents/blob/master/Manifesto.md)
+*See Mythic Systems philosophy and [*Manifesto*](https://github.com/MythicSystems/Documents/blob/master/Manifesto.md)
