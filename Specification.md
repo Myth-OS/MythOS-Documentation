@@ -29,24 +29,24 @@ Ultimately, we want people's individual stories to combine and weave into a more
 ## PRODUCT
 ### Information Architecture
 
-• User Entrance
-  • Registration
-  • Log In
-  • Forget Password
+* User Entrance
+  - Registration
+  - Log In
+  - Forget Password
 
-• Profile
-  • View Your Profile
-  • Edit Your Profile
-  • Search Profiles
+* Profile
+  - View Your Profile
+  - Edit Your Profile
+  - Search Profiles
 
-• Content
-  • Post Story
-  • Edit / Craft Story
-  • Delete Story
+* Content
+  - Post Story
+  - Edit / Craft Story
+  - Delete Story
 
-• Connect
-  • Like
-  • Message
+* Connect
+  - Like
+  - Message
 
 ### Technical Architecture 
 
