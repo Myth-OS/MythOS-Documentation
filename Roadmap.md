@@ -28,7 +28,7 @@ Goals in realizing this phase are:
 
 2 - Revise and develop MythOS website (http://mythos.io) to host a comprehensive overview of the MythOS project.
 
-3 - Derive results from “MythOS Systems Lab” experiments (see Mythic Systems Roadmap: https://github.com/MythicSystems/Documents/blob/master/Roadmap.md), and integrate successful results into MythOS technology design and architecture [Specification](Specification.md).
+3 - Derive results from “MythOS Systems Lab” experiments (see Mythic Systems [Roadmap](https://github.com/MythicSystems/Documents/blob/master/Roadmap.md), and integrate successful results into MythOS technology design and architecture [Specification](Specification.md).
 
 ---
 
