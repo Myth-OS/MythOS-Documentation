@@ -59,13 +59,19 @@ MythOS will use standard HTML5 and Javascript libraries (React, D3) for fluid an
 
 Machine Learning (Artificial Intelligence) TBD
 
-### Features
+### Features (and subfeatures)
 
-1 - ...
+1 - Social Networking
 
-2 - ...
+2 - Gamification
 
-3 - ... 
+3 - Archetypal Ontologies
+
+4 - Open API
+
+5 - Distributed Ledger (DLT) 
+
+6 - Distributed Storage
 
 ### Product Road Map
 
