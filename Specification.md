@@ -29,6 +29,8 @@ Ultimately, we want people's individual stories to combine and weave into a more
 ## PRODUCT
 ### Information Architecture
 
+![alt text](/images/MythOS-IA-1-0.1.png)
+
 * User Entrance
   - Registration
   - Log In
