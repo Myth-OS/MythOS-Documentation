@@ -37,16 +37,11 @@ Ultimately, we want people's individual stories to combine and weave into a more
 * Profile
   - View Your Profile
   - Edit Your Profile
-  - Search Profiles
 
 * Content
-  - Post Story
+  - Add Story
   - Edit / Craft Story
   - Delete Story
-
-* Connect
-  - Like
-  - Message
 
 ### Technical Architecture 
 
