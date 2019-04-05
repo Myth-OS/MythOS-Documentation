@@ -1,5 +1,5 @@
 # MYTHOS - Functional & Technical Specification
-## MVP v1.01
+## MVP v.0.1
 
 This document describes and specifies the MythOS application design and architecture.
 
