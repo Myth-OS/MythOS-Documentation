@@ -21,7 +21,8 @@ Initially, the focus is on providing ways for people to quickly and easily store
 Ultimately, we want people's individual stories to combine and weave into a more coherent collective vision of humanity's story and vision.
 
 ### Design Vision
-...
+
+![alt text](/images/MythOS-UI-Dashboard-v.0.1.png)
 
 ### Business Vision
 ...
