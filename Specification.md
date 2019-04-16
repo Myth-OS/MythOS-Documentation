@@ -48,7 +48,7 @@ Ultimately, we want people's individual stories to combine and weave into a more
 
 ### Technical Architecture 
 
-MythOS will be established on distributed network technology (most likely either EOS, Holochain, or IOTA as the main platform, and IPFS for content storage).  
+MythOS will be established on distributed network technology (EOS or Holochain, and IPFS for content storage).  
 
 - agent-based 
 - decentralized and/or distributed 
