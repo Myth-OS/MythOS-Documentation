@@ -4,7 +4,8 @@ MythOS is a social game platform that catalyzes meaningful experiences, gathers 
 
 MythOS - a mythic operating system: 
 
-https://www.mythicsystems.com/mythos/
+https://www.mythicsystems.com/mythos
+
 http://mythos.io
 
 
